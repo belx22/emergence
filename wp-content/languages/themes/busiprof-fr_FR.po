@@ -1,0 +1,466 @@
+# Translation of Themes - Busiprof in French (France)
+# This file is distributed under the same license as the Themes - Busiprof package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-04-01 11:16:20+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: fr\n"
+"Project-Id-Version: Themes - Busiprof\n"
+
+#. Theme Name of the theme
+msgid "Busiprof"
+msgstr "Busiprof"
+
+#: functions/breadcrumbs/breadcrumbs.php:29
+msgid "Archive by category"
+msgstr "Archive par catégorie"
+
+#: theme_setup_data.php:191 child_theme_compatible.php:182
+#: functions/breadcrumbs/breadcrumbs.php:32
+#: functions/customizer/customizer-archive.php:80
+msgid "Search results for"
+msgstr "Résultats de recherche pour"
+
+#: functions/breadcrumbs/breadcrumbs.php:99
+msgid "Posts tagged"
+msgstr "Articles étiquetés"
+
+#: functions/breadcrumbs/breadcrumbs.php:104
+msgid "Articles posted by"
+msgstr "Articles publiés par"
+
+#: functions/breadcrumbs/breadcrumbs.php:112
+msgid "Page"
+msgstr "Page"
+
+#. Template Name of the theme
+msgid "Home Two"
+msgstr "Accueil deux"
+
+#: functions/customizer/custo_sections_settings.php:23
+msgid "Enable Home Blog section"
+msgstr "Activer la section de blog d’accueil"
+
+#: functions/customizer/custo_general_settings.php:35
+#: functions/customizer/custo_sections_settings.php:27
+#: functions/customizer/custo_sections_settings.php:39
+msgid "ON"
+msgstr "OUI"
+
+#: functions/customizer/custo_general_settings.php:36
+#: functions/customizer/custo_sections_settings.php:28
+#: functions/customizer/custo_sections_settings.php:40
+msgid "OFF"
+msgstr "NON"
+
+#: functions/customizer/custo_sections_settings.php:35
+msgid "Enable Home Blog meta"
+msgstr "Activer les métas de blog d’accueil"
+
+#: functions/customizer/custo_sections_settings.php:49
+msgid "Title"
+msgstr "Titre"
+
+#: functions/customizer/custo_sections_settings.php:58
+msgid "Description"
+msgstr "Description"
+
+#: theme_setup_data.php:60 child_theme_compatible.php:52
+msgid "Meet our clients"
+msgstr "Rencontrez nos clients"
+
+#: functions/widgets/custom-widgets.php:7
+#: functions/widgets/custom-widgets.php:9
+msgid "Sidebar widget area"
+msgstr "Zone de widgets de colonne latérale"
+
+#: functions/widgets/custom-widgets.php:27
+#: functions/widgets/custom-widgets.php:29
+msgid "WooCommerce sidebar area"
+msgstr "Zone de barre latérale WooCommerce"
+
+#: comments.php:45
+msgid "Logout"
+msgstr "Déconnexion"
+
+#: comments.php:47
+msgid "Send Message"
+msgstr "Envoyer le message"
+
+#: index-blog.php:44 comments.php:49
+msgid "Leave a Reply"
+msgstr "Répondre"
+
+#: functions/customizer/custo_general_settings.php:43
+msgid "Footer copyright settings"
+msgstr "Réglages du droit d’auteur du pied de page"
+
+#: functions/breadcrumbs/breadcrumbs.php:107 404.php:15
+msgid "Error 404"
+msgstr "Erreur 404"
+
+#: 404.php:16
+msgid "Oops! Page not found"
+msgstr "Aïe ! Page non trouvée"
+
+#: 404.php:18
+msgid "Go Back"
+msgstr "Retour"
+
+#: comments.php:29
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment"
+msgstr "Vous devez être <a href=\"%s\">connecté</a> pour publier un commentaire"
+
+#: comments.php:35
+msgid "Name"
+msgstr "Nom"
+
+#: comments.php:36
+msgid "Email"
+msgstr "E-mail"
+
+#: functions/customizer/custo_sections_settings.php:14
+msgid "Recent Blog setting"
+msgstr "Réglages de blog récent"
+
+#: functions/widgets/custom-widgets.php:17
+#: functions/widgets/custom-widgets.php:19
+msgid "Footer widget area"
+msgstr "Zone de widgets de pied de page"
+
+#. Template Name of the theme
+msgid "Page Fullwidth"
+msgstr "Pleine largeur"
+
+#: functions/customizer/custo_general_settings.php:8
+msgid "General settings"
+msgstr "Réglages généraux"
+
+#: functions/customizer/custo_general_settings.php:13
+msgid "Front page"
+msgstr "Page d'accueil"
+
+#: functions/customizer/custo_general_settings.php:31
+msgid "Enable front page"
+msgstr "Activer la page d’accueil"
+
+#: functions/customizer/custo_sections_settings.php:9
+msgid "Homepage section settings"
+msgstr "Réglages de section de page d’accueil"
+
+#: 404.php:17
+msgid "We are sorry, but the page you are looking for does not exist."
+msgstr "Nous sommes désolés, mais la page que vous recherchez n’existe pas."
+
+#: index.php:27 author.php:53 archive.php:68 tag.php:51 category.php:52
+#: search.php:35
+msgid "Previous"
+msgstr "Précédent"
+
+#: index.php:28 author.php:54 archive.php:69 tag.php:52 category.php:53
+#: search.php:36
+msgid "Next"
+msgstr "Suivant"
+
+#: search.php:28
+msgid "Sorry, but nothing matched your search criteria. Please try again with some different keywords."
+msgstr "Désolé, mais rien ne correspond à vos critères de recherche. Veuillez réessayer avec d’autres mots-clés."
+
+#: search.php:27
+msgid "Nothing Found"
+msgstr "Aucun résultat"
+
+#: functions/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr "Une erreur est apparue avec l'API de l'extension."
+
+#: functions.php:143
+msgid "Primary Menu"
+msgstr "Menu principal"
+
+#: theme_setup_data.php:85 child_theme_compatible.php:76
+#: child_theme_compatible.php:105
+msgid "More Services"
+msgstr "Plus de services"
+
+#: functions/customizer/custo_general_settings.php:52
+msgid "Copyright text"
+msgstr "Texte du droit d’auteur"
+
+#: admin/tab-pages/free_vs_pro.php:86
+msgid "Free"
+msgstr "Gratuit"
+
+#: admin/tab-pages/free_vs_pro.php:14
+msgid "Features"
+msgstr "Fonctionnalités"
+
+#: admin/tab-pages/useful_plugins.php:116
+msgid "Translation Ready"
+msgstr "Prêt à être traduit"
+
+#. Template Name of the theme
+#: index-bannerstrip.php:23 functions/breadcrumbs/breadcrumbs.php:6
+#: functions/menu/default_menu_walker.php:23
+msgid "Home"
+msgstr "Accueil"
+
+#: functions/commentbox/comment-function.php:31
+msgid "Your comment is awaiting moderation."
+msgstr "Votre commentaire est en attente de modération."
+
+#: functions/commentbox/comment-function.php:16
+msgid "Reply"
+msgstr "Répondre"
+
+#: comments.php:45
+msgid "Logged in as"
+msgstr "Connecté·e en tant que"
+
+#: comments.php:11 comments.php:21
+msgid "Newer Comments &rarr;"
+msgstr "Commentaires plus récents &rarr;"
+
+#: comments.php:10 comments.php:20
+msgid "&larr; Older Comments"
+msgstr "&larr; Commentaires plus anciens"
+
+#: comments.php:9 comments.php:19
+msgid "Comment navigation"
+msgstr "Navigation des commentaires"
+
+#: comments.php:6
+msgid "Comment"
+msgstr "Commentaire"
+
+#: comments.php:2
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr "Cet article est protégé par un mot de passe. Saisissez le mot de passe pour lire les commentaires."
+
+#: functions/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr "Toutes les installations sont terminées."
+
+#. translators: 1: plugin name.
+#: functions/class-tgm-plugin-activation.php:3517
+msgid "%1$s installed successfully."
+msgstr "%1$s a bien été installé."
+
+#. translators: 1: plugin name.
+#: functions/class-tgm-plugin-activation.php:3503
+msgid "The installation of %1$s failed."
+msgstr "L'installation de %1$s a échoué."
+
+#. translators: 1: plugin name, 2: error message.
+#: functions/class-tgm-plugin-activation.php:3501
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Une erreur est apparue lors de l'installation de: %1$s: <strong>%2$s</strong>."
+
+#: functions/class-tgm-plugin-activation.php:3515
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Démarrage de l'installation. Cela, selon l'hôte, peut prendre un certain temps. Patienter...."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: functions/class-tgm-plugin-activation.php:3512
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Installation et activation de l'extension %1$s (%2$d/%3$d)"
+
+#: functions/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr "Toutes les instalations et activations ont été effectuées."
+
+#. translators: 1: plugin name.
+#: functions/class-tgm-plugin-activation.php:3509
+#: functions/class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr "Cacher les détails"
+
+#. translators: 1: plugin name.
+#: functions/class-tgm-plugin-activation.php:3509
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s a bien été installé et activé."
+
+#. translators: 1: plugin name.
+#: functions/class-tgm-plugin-activation.php:3509
+#: functions/class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr "Afficher les détails"
+
+#: functions/class-tgm-plugin-activation.php:3507
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Démarrage de l'installation et de l'activation de l'extension. Son déroulement, selon l'hôte, peut prendre un certain temps. Patienter..."
+
+#: functions/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr "L'activation de l'extension a échoué."
+
+#: functions/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr "État"
+
+#: functions/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr "Type"
+
+#: functions/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr "Adresse web source"
+
+#: functions/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr "Extension"
+
+#: admin/inc/class-webriti-about-page.php:432
+#: functions/class-tgm-plugin-activation.php:2726
+#: functions/customizer/customizer_recommended_plugin.php:19
+msgid "Activate"
+msgstr "Activer"
+
+#: functions/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr "Installer"
+
+#: functions/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr "Installé(e) mais non activé(e)"
+
+#: functions/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr "Non installé(e)"
+
+#: functions/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr "Recommandé(e)"
+
+#: functions/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr "Obligatoire"
+
+#: functions/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr "Référentiel WordPresss"
+
+#: functions/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr "Pré-packagé"
+
+#: functions/class-tgm-plugin-activation.php:386
+#: functions/class-tgm-plugin-activation.php:827
+#: functions/class-tgm-plugin-activation.php:2533
+#: functions/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr "Retour au tableau de bord"
+
+#: functions/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr "Omettre ce conseil."
+
+#. translators: 1: dashboard link.
+#: functions/class-tgm-plugin-activation.php:394
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Toutes les extensions ont été installées et activées. %1$s"
+
+#: functions/class-tgm-plugin-activation.php:388
+#: functions/class-tgm-plugin-activation.php:2952
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "L'extension suivante a bien été activée:"
+msgstr[1] ""
+
+#: functions/class-tgm-plugin-activation.php:387
+#: functions/class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr "L'extension a bien été activée."
+
+#: functions/class-tgm-plugin-activation.php:380
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Commencer à activer le plugin"
+msgstr[1] "Commencer l'activation des plugins"
+
+#: functions/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr "Retour à l'installation des extensions requises."
+
+#: functions/class-tgm-plugin-activation.php:370
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Commencer l'installation du plugin"
+msgstr[1] "Commencer l'installation de plugins"
+
+#. translators: 1: plugin name(s).
+#: functions/class-tgm-plugin-activation.php:346
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] "Le plugin suivant doit être mis à jour pour sa version la plus récente pour assurer une compatibilité maximale avec ce thème : %1$s."
+msgstr[1] "Les plugins suivants doivent être mis à jour vers leur dernière version afin d'assurer une compatibilité maximale avec ce thème : %1$s."
+
+#. translators: 1: plugin name(s).
+#: functions/class-tgm-plugin-activation.php:358
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "Les attributs requis plugin est actuellement inactive : %1$s."
+msgstr[1] "Les attributs requis plugins sont actuellement inactifs : %1$s."
+
+#. translators: 1: plugin name(s).
+#: functions/class-tgm-plugin-activation.php:364
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "Plugin est actuellement inactive a recommandé ce qui suit : %1$s."
+msgstr[1] "Plugins sont actuellement inactifs a recommandé ce qui suit : %1$s."
+
+#. translators: 1: plugin name(s).
+#: functions/class-tgm-plugin-activation.php:334
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Ce thème nécessite le plugin suivant : %1$s."
+msgstr[1] "Ce thème nécessite les plugins suivants : %1$s."
+
+#. translators: 1: plugin name(s).
+#: functions/class-tgm-plugin-activation.php:340
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Ce thème recommande l'extension suivante : %1$s."
+msgstr[1] "Ce thème recommande les extensions suivantes : %1$s."
+
+#. translators: %s: plugin name.
+#: functions/class-tgm-plugin-activation.php:330
+msgid "Installing Plugin: %s"
+msgstr "Extension en cours d&rsquo;installation&nbsp;: %s"
+
+#: functions/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr "Installer des extensions"
+
+#: functions/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr "Installer les extensions requises"
+
+#: index-blog.php:56 content.php:44
+msgid "Read More"
+msgstr "Lire la suite"
+
+#: content.php:26
+msgid "Leave a comment"
+msgstr "Laisser un commentaire"
+
+#: searchform.php:2 searchform.php:3
+#: functions/customizer/customizer-archive.php:87
+msgid "Search"
+msgstr "Rechercher"
+
+#. Theme URI of the theme
+msgid "https://webriti.com/busiprof-premium-wordpress-theme-1/"
+msgstr "https://webriti.com/busiprof-premium-wordpress-theme-1/"
+
+#. Author of the theme
+msgid "webriti"
+msgstr "webriti"
+
+#. Author URI of the theme
+msgid "https://www.webriti.com"
+msgstr "https://www.webriti.com"

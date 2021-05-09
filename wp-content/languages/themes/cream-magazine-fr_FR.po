@@ -1,0 +1,1522 @@
+# Translation of Themes - Cream Magazine in French (France)
+# This file is distributed under the same license as the Themes - Cream Magazine package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-04-27 10:02:25+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: fr\n"
+"Project-Id-Version: Themes - Cream Magazine\n"
+
+#. Description of the theme
+msgid "Cream Magazine is a news & magazine WordPress theme with a clean & modern design suitable for everyone who wish to share their stories, publish a breaking daily news or write on different topics. Everything in Cream Magazine is very easy to deal with, after assigning a front-page one can fully get started to build a website though WordPress Live Customizer.Cream magazine is build taking SEO, Speed & Responsive in mind. Build-in features like lazy load for images has been implemented to make cream mag load faster & extra library files have been bundled to minimize  HTTP requests. For more information go to https://themebeez.com/themes/cream-magazine/"
+msgstr "Cream Magazine est un thème d’actualité & de magazine WordPress au design propre & moderne adaptée à tous ceux qui souhaitent partager leurs histoires, publier quotidiennement les dernières nouvelles ou écrire sur différents sujets. Tout ce que contient Cream Magazine est très facile à gérer, après avoir assigné une page d’accueil, on peut commencer à construire un site web via WordPress Live Customizer. Cream Magazine est conçu en tenant compte du SEO, de la vitesse et de la réactivité. Des fonctionnalités intégrées telles que le chargement différé pour les images ont été implémentées pour accélérer le chargement de Cream mag & des fichiers de bibliothèque extra ont été regroupés pour minimiser les requêtes HTTP. Pour plus d’information, consultez https://themebeez.com/themes/cream-magazine/"
+
+#. Theme Name of the theme
+msgid "Cream Magazine"
+msgstr "Cream Magazine"
+
+#: inc/customizer/functions/control-choices.php:63
+msgid "ID"
+msgstr "ID"
+
+#: inc/customizer/functions/control-choices.php:62
+msgid "Slug"
+msgstr "Slug"
+
+#: inc/customizer/functions/control-choices.php:51
+msgid "Both Front Page & Blog Page"
+msgstr "Page d’accueil et page de blog"
+
+#: inc/customizer/functions/control-choices.php:50
+msgid "Blog Page Only"
+msgstr "Page de blog uniquement"
+
+#: inc/customizer/functions/control-choices.php:49
+msgid "Front Page Only"
+msgstr "Page d’accueil uniquement"
+
+#: inc/customizer/class-cream-magazine-customize.php:128
+msgid "Global"
+msgstr "Global"
+
+#: inc/customizer/class-cream-magazine-customize.php:119
+msgid "Typography Customization"
+msgstr "Personnalisation de typographie"
+
+#: inc/customizer/class-cream-magazine-customize.php:92
+msgid "Front Page Customization"
+msgstr "Personnalisation de page d’accueil"
+
+#: inc/customizer/options/class-cream-magazine-social-links-options.php:223
+msgid "Show Pages On New Tab"
+msgstr "Afficher les pages sur un nouvel onglet"
+
+#: inc/customizer/options/class-cream-magazine-footer-options.php:83
+msgid "Display Footer Widget Area On Mobile &amp; Tablet Devices"
+msgstr "Affichage de la zone de widgets du pied de page sur les téléphones portables et les tablettes"
+
+#: inc/customizer/options/class-cream-magazine-footer-options.php:63
+msgid "Display Footer Widget Area"
+msgstr "Afficher la zone de widgets du pied de page"
+
+#: inc/customizer/options/class-cream-magazine-global-options.php:113
+msgid "Disable Underline Link On Hover"
+msgstr "Désactiver le soulignement de lien au survol"
+
+#: inc/customizer/options/class-cream-magazine-global-options.php:93
+msgid "Disable Outline On Link Focus"
+msgstr "Désactiver le surlignement de lien"
+
+#: inc/customizer/options/class-cream-magazine-global-options.php:72
+msgid "This option lets you save value of category, page, post, etc. either as slug or id. Select ID if your site language is other than English."
+msgstr "Cette option vous permet d’enregistrer la valeur de la catégorie, de la page, de l’article, etc. Sélectionnez ID si la langue de votre site est autre que l’anglais."
+
+#: inc/customizer/options/class-cream-magazine-global-options.php:71
+msgid "Save Option&rsquo;s Value As"
+msgstr "Enregistrer le valeur de l’option en"
+
+#: inc/customizer/options/class-cream-magazine-global-options.php:48
+msgid "Links"
+msgstr "Liens"
+
+#: inc/customizer/options/class-cream-magazine-global-options.php:40
+msgid "Option&rsquo;s Value"
+msgstr "Valeur de l’options"
+
+#: inc/customizer/options/class-cream-magazine-bottom-news-area-options.php:65
+msgid "Show Bottom News Area"
+msgstr "Afficher la zone d’actualités en bas"
+
+#: inc/customizer/options/class-cream-magazine-bottom-news-area-options.php:42
+msgid "Bottom News Area"
+msgstr "Zone des actualités du bas"
+
+#: inc/customizer/options/class-cream-magazine-page-single-options.php:82
+#: inc/customizer/options/class-cream-magazine-post-single-options.php:202
+msgid "Show Featured Image&rsquo;s Caption"
+msgstr "Afficher la légende de l’image mise en avant"
+
+#: inc/customizer/options/class-cream-magazine-banner-options.php:166
+msgid "Note: This option works only for slider part."
+msgstr "Note : Cette option ne fonctionne que pour la partie diaporama."
+
+#: inc/customizer/options/class-cream-magazine-banner-options.php:165
+msgid "Number of Slider Items"
+msgstr "Nombre d’éléments du diaporama"
+
+#: inc/customizer/options/class-cream-magazine-typo-options.php:72
+#: inc/customizer/options/class-cream-magazine-typo-options.php:95
+msgid "Font Family"
+msgstr "Famille de police"
+
+#: inc/customizer/options/class-cream-magazine-typo-options.php:48
+msgid "Headings(H1-H6)"
+msgstr "Intertitres (H1-H6)"
+
+#: inc/customizer/options/class-cream-magazine-typo-options.php:40
+msgid "Body"
+msgstr "Corps"
+
+#: inc/customizer/options/class-cream-magazine-header-options.php:188
+msgid "Enable Sticky Menu Section"
+msgstr "Activer la section de menu collant"
+
+#: inc/customizer/options/class-cream-magazine-header-options.php:147
+msgid "Enable Menu Description"
+msgstr "Activer la description du menu"
+
+#: inc/customizer/options/class-cream-magazine-middle-news-area-options.php:65
+msgid "Show Middle News Area"
+msgstr "Afficher la zone d’actualités du milieu"
+
+#: inc/customizer/options/class-cream-magazine-middle-news-area-options.php:42
+msgid "Middle News Area"
+msgstr "Zone d’actualités du milieu"
+
+#: inc/customizer/options/class-cream-magazine-color-options.php:594
+msgid "Content&rsquo;s Link Color - On Hover"
+msgstr "Couleur du lien de contenu - Au survol"
+
+#: inc/customizer/options/class-cream-magazine-color-options.php:570
+msgid "Content&rsquo;s Link Color"
+msgstr "Couleur du lien de contenu"
+
+#: inc/customizer/options/class-cream-magazine-color-options.php:524
+msgid "Text Color - On Hover"
+msgstr "Couleur du texte - Au survol"
+
+#: inc/customizer/options/class-cream-magazine-color-options.php:481
+msgid "Background Color - On Hover"
+msgstr "Couleur d’arrière-plan - Au survol"
+
+#: inc/customizer/options/class-cream-magazine-color-options.php:437
+msgid "Common Text Color"
+msgstr "Couleur du texte commun"
+
+#: inc/customizer/options/class-cream-magazine-color-options.php:392
+msgid "Background Color - 9"
+msgstr "Couleur d’arrière-plan - 9"
+
+#: inc/customizer/options/class-cream-magazine-color-options.php:368
+msgid "Background Color - 8"
+msgstr "Couleur d’arrière-plan - 8"
+
+#: inc/customizer/options/class-cream-magazine-color-options.php:344
+msgid "Background Color - 7"
+msgstr "Couleur d’arrière-plan - 7"
+
+#: inc/customizer/options/class-cream-magazine-color-options.php:320
+msgid "Background Color - 6"
+msgstr "Couleur d’arrière-plan - 6"
+
+#: inc/customizer/options/class-cream-magazine-color-options.php:296
+msgid "Background Color - 5"
+msgstr "Couleur d’arrière-plan - 5"
+
+#: inc/customizer/options/class-cream-magazine-color-options.php:272
+msgid "Background Color - 4"
+msgstr "Couleur de fond 4"
+
+#: inc/customizer/options/class-cream-magazine-color-options.php:248
+msgid "Background Color - 3"
+msgstr "Couleur de fond - 3"
+
+#: inc/customizer/options/class-cream-magazine-color-options.php:224
+msgid "Background Color - 2"
+msgstr "Couleur de fond - 2"
+
+#: inc/customizer/options/class-cream-magazine-color-options.php:200
+msgid "Background Color - 1"
+msgstr "Couleur de fond - 1"
+
+#: inc/customizer/options/class-cream-magazine-color-options.php:176
+msgid "Common Background Color"
+msgstr "Couleur d’arrière-plan"
+
+#: inc/customizer/options/class-cream-magazine-color-options.php:131
+msgid "Enable Common Color For Category Meta"
+msgstr "Activer la couleur commune pour la méta de catégorie"
+
+#: inc/customizer/options/class-cream-magazine-color-options.php:89
+msgid "Tagline Color"
+msgstr "Couleur du slogan"
+
+#: inc/customizer/options/class-cream-magazine-color-options.php:63
+msgid "Post/Page Single Link Color"
+msgstr "Couleur de lien de publication / page"
+
+#: inc/customizer/options/class-cream-magazine-color-options.php:52
+msgid "Category Meta Color"
+msgstr "Couleur de méta de catégorie"
+
+#: inc/customizer/options/class-cream-magazine-news-ticker-options.php:211
+msgid "Number of Ticker News Items"
+msgstr "Nombre d’éléments du bandeau de nouvelles"
+
+#: inc/customizer/options/class-cream-magazine-news-ticker-options.php:153
+msgid "Ticker News Title"
+msgstr "Titre du bandeau de nouvelles"
+
+#: inc/customizer/options/class-cream-magazine-news-ticker-options.php:107
+msgid "Display Ticker News On"
+msgstr "Afficher le bandeau de nouvelles"
+
+#: inc/customizer/options/class-cream-magazine-search-page-options.php:165
+msgid "Hide Pages On Search Results"
+msgstr "Masquer les pages dans les résultats de recherche"
+
+#: inc/customizer/options/class-cream-magazine-top-news-area-options.php:106
+msgid "Enable Homepage Content"
+msgstr "Activer le contenu de la page d’accueil"
+
+#: inc/customizer/options/class-cream-magazine-top-news-area-options.php:65
+msgid "Show Top News Area"
+msgstr "Afficher la zone d’actualités Top"
+
+#: inc/customizer/options/class-cream-magazine-top-news-area-options.php:42
+msgid "Top News Area"
+msgstr "Zone d‘actualités Top"
+
+#: inc/customizer/options/class-cream-magazine-site-sidebar-options.php:124
+msgid "Show Sidebar After Main Content On Mobile &amp; Tablet Devices"
+msgstr "Afficher la colonne latérale après le contenu principal sur mobile &amp ; tablette"
+
+#: inc/customizer/options/class-cream-magazine-site-sidebar-options.php:104
+msgid "Show Sidebar On Mobile &amp; Tablet Devices"
+msgstr "Afficher la colonne latérale sur mobile &amp ; tablette"
+
+#. translators: 1: Copyright Text 2: Theme name, 3: Theme author.
+#: inc/theme-hooks.php:649
+msgid "<span class=\"copyright-text\">%1$s</span> %2$s by %3$s"
+msgstr "<span class=\"copyright-text\">1$s %2$s</span> par %3$s"
+
+#: inc/class-cream-magazine.php:163
+msgid "XL"
+msgstr "XL"
+
+#: inc/class-cream-magazine.php:162
+msgid "Larger"
+msgstr "Très large"
+
+#: inc/class-cream-magazine.php:157
+msgid "L"
+msgstr "L"
+
+#: inc/class-cream-magazine.php:156
+msgid "Large"
+msgstr "Large"
+
+#: inc/class-cream-magazine.php:151
+msgid "M"
+msgstr "M"
+
+#: inc/class-cream-magazine.php:150
+msgid "Medium"
+msgstr "Moyen"
+
+#: inc/class-cream-magazine.php:145
+msgid "S"
+msgstr "S"
+
+#: inc/class-cream-magazine.php:144
+msgid "Small"
+msgstr "Petit"
+
+#: inc/theme-hooks.php:63
+msgid "Skip to content"
+msgstr "Aller au contenu"
+
+#: inc/customizer/options/class-cream-magazine-page-single-options.php:122
+#: inc/customizer/options/class-cream-magazine-post-single-options.php:455
+msgid "Enable Common Sidebar Position"
+msgstr "Activer la position de colonne latérale commune"
+
+#: inc/customizer/options/class-cream-magazine-page-single-options.php:40
+msgid "Single Page"
+msgstr "Page"
+
+#: inc/widget/news-widgets/class-cream-magazine-news-widget-two.php:9
+msgid "CM Full: News Widget 2"
+msgstr "CM complet : Widget d’actualités 2"
+
+#: inc/widget/news-widgets/class-cream-magazine-news-widget-nine.php:9
+msgid "CM Half: News Widget 2"
+msgstr "CM Demi: Widget d’actualités 2"
+
+#: inc/customizer/options/class-cream-magazine-header-options.php:255
+msgid "Header Overlay Color"
+msgstr "Couleur de superposition du header"
+
+#: inc/widget/news-widgets/class-cream-magazine-news-widget-two.php:140
+#: inc/widget/news-widgets/class-cream-magazine-news-widget-eleven.php:144
+#: inc/widget/news-widgets/class-cream-magazine-news-widget-nine.php:196
+#: inc/widget/news-widgets/class-cream-magazine-news-widget-six.php:189
+#: inc/widget/news-widgets/class-cream-magazine-news-widget-one.php:188
+#: inc/widget/news-widgets/class-cream-magazine-news-widget-three.php:144
+#: inc/widget/sidebar-footer-widgets/class-cream-magazine-author-widget.php:101
+#: inc/widget/sidebar-footer-widgets/class-cream-magazine-social-widget.php:103
+#: inc/widget/sidebar-footer-widgets/class-cream-magazine-post-widget.php:113
+msgid "At frontend this widget looks like as below:"
+msgstr "Ce widget ressemble à ceci :"
+
+#: inc/class-cream-magazine.php:477
+msgid "Type Here"
+msgstr "Saisissez Ici"
+
+#: inc/customizer/options/class-cream-magazine-upsell-options.php:47
+msgid "Get Pro"
+msgstr "Obtenir la version PRO"
+
+#: inc/customizer/options/class-cream-magazine-upsell-options.php:46
+msgid "Cream Magazine Pro"
+msgstr "Cream Magazine Pro"
+
+#. translators: 1: Theme name, 2: Theme author.
+#: inc/theme-hooks.php:653
+msgid "%1$s by %2$s"
+msgstr "%1$s par %2$s"
+
+#. translators: 1: Copyright Text 2: Theme name, 3: Theme author.
+#. translators: 1: Theme name, 2: Theme author.
+#: inc/theme-hooks.php:649 inc/theme-hooks.php:653
+msgid "Themebeez"
+msgstr "Themebeez"
+
+#: inc/theme-hooks.php:258
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: inc/theme-hooks.php:252
+msgid "Linkedin"
+msgstr "Linkedin"
+
+#: inc/theme-hooks.php:246
+msgid "VK"
+msgstr "Vk"
+
+#: inc/theme-hooks.php:240
+msgid "Youtube"
+msgstr "Youtube"
+
+#: inc/theme-hooks.php:234
+msgid "Instagram"
+msgstr "Instagram"
+
+#: inc/theme-hooks.php:228
+msgid "Twitter"
+msgstr "Twitter"
+
+#: inc/theme-hooks.php:222
+msgid "Facebook"
+msgstr "Facebook"
+
+#: inc/widget/news-widgets/class-cream-magazine-news-widget-three.php:9
+msgid "CM Full: News Widget 3"
+msgstr "CM entier : Widget d’actualités 3"
+
+#: inc/widget/news-widgets/class-cream-magazine-news-widget-six.php:211
+#: inc/widget/news-widgets/class-cream-magazine-news-widget-three.php:166
+msgid "Select Categories"
+msgstr "Sélectionner les catégories"
+
+#: inc/widget/news-widgets/class-cream-magazine-news-widget-eleven.php:9
+msgid "CM Half: News Widget 3"
+msgstr "CM demi : Widget d’actualités 3"
+
+#: inc/widget/news-widgets/class-cream-magazine-news-widget-two.php:152
+#: inc/widget/news-widgets/class-cream-magazine-news-widget-six.php:201
+#: inc/widget/news-widgets/class-cream-magazine-news-widget-one.php:200
+#: inc/widget/news-widgets/class-cream-magazine-news-widget-three.php:156
+msgid "Select Category: "
+msgstr "Sélectionner une catégorie : "
+
+#: inc/widget/news-widgets/class-cream-magazine-news-widget-one.php:9
+msgid "CM Full: News Widget 1"
+msgstr "CM entier : Widget d’actualités 1"
+
+#: inc/widget/news-widgets/class-cream-magazine-news-widget-two.php:192
+#: inc/widget/news-widgets/class-cream-magazine-news-widget-eleven.php:196
+#: inc/widget/news-widgets/class-cream-magazine-news-widget-nine.php:248
+#: inc/widget/news-widgets/class-cream-magazine-news-widget-six.php:241
+#: inc/widget/news-widgets/class-cream-magazine-news-widget-one.php:240
+msgid "Show Post Categories"
+msgstr "Afficher les catégories"
+
+#: inc/widget/news-widgets/class-cream-magazine-news-widget-two.php:184
+#: inc/widget/news-widgets/class-cream-magazine-news-widget-eleven.php:188
+#: inc/widget/news-widgets/class-cream-magazine-news-widget-nine.php:240
+#: inc/widget/news-widgets/class-cream-magazine-news-widget-six.php:233
+#: inc/widget/news-widgets/class-cream-magazine-news-widget-one.php:232
+#: inc/widget/news-widgets/class-cream-magazine-news-widget-three.php:188
+msgid "No of Posts"
+msgstr "Nombre de publications"
+
+#: inc/widget/news-widgets/class-cream-magazine-news-widget-two.php:179
+#: inc/widget/news-widgets/class-cream-magazine-news-widget-eleven.php:183
+#: inc/widget/news-widgets/class-cream-magazine-news-widget-nine.php:235
+#: inc/widget/news-widgets/class-cream-magazine-news-widget-six.php:228
+#: inc/widget/news-widgets/class-cream-magazine-news-widget-one.php:227
+#: inc/widget/news-widgets/class-cream-magazine-news-widget-three.php:183
+msgid "If no category is selected, then recent posts will be displayed."
+msgstr "Si aucune catégorie n’est sélectionnée, alors les publications récentes seront affichées."
+
+#: inc/widget/news-widgets/class-cream-magazine-news-widget-one.php:210
+msgid "none"
+msgstr "aucune"
+
+#: inc/widget/news-widgets/class-cream-magazine-news-widget-two.php:162
+#: inc/widget/news-widgets/class-cream-magazine-news-widget-eleven.php:156
+#: inc/widget/news-widgets/class-cream-magazine-news-widget-eleven.php:166
+#: inc/widget/news-widgets/class-cream-magazine-news-widget-nine.php:208
+#: inc/widget/news-widgets/class-cream-magazine-news-widget-nine.php:218
+#: inc/widget/news-widgets/class-cream-magazine-news-widget-one.php:210
+msgid "Select Category"
+msgstr "Sélection de catégorie"
+
+#: inc/widget/news-widgets/class-cream-magazine-news-widget-two.php:11
+#: inc/widget/news-widgets/class-cream-magazine-news-widget-eleven.php:11
+#: inc/widget/news-widgets/class-cream-magazine-news-widget-nine.php:11
+#: inc/widget/news-widgets/class-cream-magazine-news-widget-six.php:11
+#: inc/widget/news-widgets/class-cream-magazine-news-widget-one.php:11
+#: inc/widget/news-widgets/class-cream-magazine-news-widget-three.php:11
+msgid "Displays posts of selected category."
+msgstr "Affiche les publications de la catégorie sélectionnée."
+
+#: inc/widget/news-widgets/class-cream-magazine-news-widget-six.php:9
+msgid "CM Half: News Widget 6"
+msgstr "CM demi: Widget d’actualités 6"
+
+#: inc/widget/class-cream-magazine-widget-init.php:130
+msgid "Woocommerce Sidebar"
+msgstr "Colonne latérale WooCommerce"
+
+#: inc/widget/class-cream-magazine-widget-init.php:119
+msgid "Home Bottom News Area"
+msgstr "Zone des Nouvelles au bas de l’accueil"
+
+#: inc/widget/class-cream-magazine-widget-init.php:111
+msgid "Add Halfwidth News Widgets Here."
+msgstr "Ajouter les Widgets demi d’actualités ici."
+
+#: inc/widget/class-cream-magazine-widget-init.php:109
+msgid "Home Middle News Area"
+msgstr "Zone d’actualités au milieu de l’accueil"
+
+#: inc/widget/class-cream-magazine-widget-init.php:101
+#: inc/widget/class-cream-magazine-widget-init.php:121
+msgid "Add Fullwidth News Widgets Here."
+msgstr "Ajouter les widgets entiers d’actualités Ici."
+
+#: inc/widget/class-cream-magazine-widget-init.php:99
+msgid "Home Top News Area"
+msgstr "Zone des actualités en haut de l’accueil"
+
+#: inc/widget/class-cream-magazine-widget-init.php:89
+msgid "Header Advertisement"
+msgstr "Publicité d’en-tête"
+
+#: inc/widget/class-cream-magazine-widget-init.php:79
+msgid "Footer Right"
+msgstr "Pied de page de droite"
+
+#: inc/widget/class-cream-magazine-widget-init.php:69
+msgid "Footer Middle"
+msgstr "Pied de page du milieu"
+
+#: inc/widget/class-cream-magazine-widget-init.php:59
+msgid "Footer Left"
+msgstr "Pied de page de gauche"
+
+#: inc/widget/class-cream-magazine-widget-init.php:51
+#: inc/widget/class-cream-magazine-widget-init.php:61
+#: inc/widget/class-cream-magazine-widget-init.php:71
+#: inc/widget/class-cream-magazine-widget-init.php:81
+#: inc/widget/class-cream-magazine-widget-init.php:91
+#: inc/widget/class-cream-magazine-widget-init.php:132
+msgid "Add widgets here."
+msgstr "Ajouter des widgets ici."
+
+#: inc/widget/sidebar-footer-widgets/class-cream-magazine-social-widget.php:151
+msgid "Pinterest Link:"
+msgstr "Lien Pinterest :"
+
+#: inc/widget/sidebar-footer-widgets/class-cream-magazine-social-widget.php:144
+msgid "Youtube Link:"
+msgstr "Lien Youtube :"
+
+#: inc/widget/sidebar-footer-widgets/class-cream-magazine-social-widget.php:137
+msgid "linkedin Link:"
+msgstr "lien linkedin :"
+
+#: inc/widget/sidebar-footer-widgets/class-cream-magazine-social-widget.php:130
+msgid "Instagram Link:"
+msgstr "Lien Instagram :"
+
+#: inc/widget/sidebar-footer-widgets/class-cream-magazine-social-widget.php:123
+msgid "Twitter Link:"
+msgstr "Lien Twitter :"
+
+#: inc/widget/sidebar-footer-widgets/class-cream-magazine-social-widget.php:116
+msgid "Facebook Link:"
+msgstr "Lien Facebook :"
+
+#: inc/widget/sidebar-footer-widgets/class-cream-magazine-social-widget.php:109
+msgid "Title: "
+msgstr "Titre : "
+
+#: inc/widget/sidebar-footer-widgets/class-cream-magazine-social-widget.php:62
+msgid "Connect"
+msgstr "Connecter"
+
+#: inc/widget/sidebar-footer-widgets/class-cream-magazine-social-widget.php:48
+#: inc/widget/sidebar-footer-widgets/class-cream-magazine-social-widget.php:55
+#: inc/widget/sidebar-footer-widgets/class-cream-magazine-social-widget.php:69
+#: inc/widget/sidebar-footer-widgets/class-cream-magazine-social-widget.php:76
+msgid "Follow"
+msgstr "Suivre"
+
+#: inc/widget/sidebar-footer-widgets/class-cream-magazine-social-widget.php:41
+msgid "Like"
+msgstr "J’aime"
+
+#: inc/widget/sidebar-footer-widgets/class-cream-magazine-social-widget.php:12
+msgid "Displays links to social sites."
+msgstr "Affiche des liens vers des sites sociaux."
+
+#: inc/widget/sidebar-footer-widgets/class-cream-magazine-social-widget.php:9
+msgid "CM: Social Widget"
+msgstr "CM : Widget social"
+
+#: inc/widget/news-widgets/class-cream-magazine-news-widget-two.php:213
+#: inc/widget/news-widgets/class-cream-magazine-news-widget-eleven.php:217
+#: inc/widget/news-widgets/class-cream-magazine-news-widget-nine.php:269
+#: inc/widget/news-widgets/class-cream-magazine-news-widget-six.php:262
+#: inc/widget/news-widgets/class-cream-magazine-news-widget-one.php:261
+#: inc/widget/news-widgets/class-cream-magazine-news-widget-three.php:210
+#: inc/widget/sidebar-footer-widgets/class-cream-magazine-post-widget.php:168
+msgid "Show Post Comments Number"
+msgstr "Afficher le nombre de commentaires"
+
+#: inc/widget/news-widgets/class-cream-magazine-news-widget-two.php:206
+#: inc/widget/news-widgets/class-cream-magazine-news-widget-eleven.php:210
+#: inc/widget/news-widgets/class-cream-magazine-news-widget-nine.php:262
+#: inc/widget/news-widgets/class-cream-magazine-news-widget-six.php:255
+#: inc/widget/news-widgets/class-cream-magazine-news-widget-one.php:254
+#: inc/widget/news-widgets/class-cream-magazine-news-widget-three.php:203
+#: inc/widget/sidebar-footer-widgets/class-cream-magazine-post-widget.php:161
+msgid "Show Posted Date"
+msgstr "Afficher la date de publication"
+
+#: inc/widget/news-widgets/class-cream-magazine-news-widget-two.php:199
+#: inc/widget/news-widgets/class-cream-magazine-news-widget-eleven.php:203
+#: inc/widget/news-widgets/class-cream-magazine-news-widget-nine.php:255
+#: inc/widget/news-widgets/class-cream-magazine-news-widget-six.php:248
+#: inc/widget/news-widgets/class-cream-magazine-news-widget-one.php:247
+#: inc/widget/news-widgets/class-cream-magazine-news-widget-three.php:196
+#: inc/widget/sidebar-footer-widgets/class-cream-magazine-post-widget.php:154
+msgid "Show Post Author"
+msgstr "Afficher l’auteur"
+
+#: inc/widget/sidebar-footer-widgets/class-cream-magazine-post-widget.php:146
+msgid "No of Popular Posts"
+msgstr "Nombre de publications populaires"
+
+#: inc/widget/sidebar-footer-widgets/class-cream-magazine-post-widget.php:132
+msgid "Most Commented"
+msgstr "Les plus commentées"
+
+#: inc/widget/sidebar-footer-widgets/class-cream-magazine-post-widget.php:131
+msgid "Recent Posts"
+msgstr "Les publications récentes"
+
+#: inc/widget/sidebar-footer-widgets/class-cream-magazine-post-widget.php:126
+msgid "Type of Posts:"
+msgstr "Type de publications :"
+
+#: inc/widget/sidebar-footer-widgets/class-cream-magazine-post-widget.php:11
+msgid "Displays Recent, Most Commented or Editor Picked Posts."
+msgstr "Affiche les publications les plus commentées, les plus récentes ou celles sélectionnées par l’éditeur."
+
+#: inc/widget/sidebar-footer-widgets/class-cream-magazine-post-widget.php:9
+msgid "CM: Posts Widget"
+msgstr "CM : Widget de publications"
+
+#: inc/widget/sidebar-footer-widgets/class-cream-magazine-author-widget.php:128
+msgid "Author Link Title"
+msgstr "Titre du lien de l’auteur"
+
+#: inc/widget/sidebar-footer-widgets/class-cream-magazine-author-widget.php:120
+msgid "&mdash; Select Page &mdash;"
+msgstr "&mdash; Sélectionner une page &mdash;"
+
+#: inc/widget/sidebar-footer-widgets/class-cream-magazine-author-widget.php:113
+msgid "Author Page"
+msgstr "Auteur de la page"
+
+#: inc/widget/news-widgets/class-cream-magazine-news-widget-two.php:146
+#: inc/widget/news-widgets/class-cream-magazine-news-widget-eleven.php:150
+#: inc/widget/news-widgets/class-cream-magazine-news-widget-nine.php:202
+#: inc/widget/news-widgets/class-cream-magazine-news-widget-six.php:195
+#: inc/widget/news-widgets/class-cream-magazine-news-widget-one.php:194
+#: inc/widget/news-widgets/class-cream-magazine-news-widget-three.php:150
+#: inc/widget/sidebar-footer-widgets/class-cream-magazine-author-widget.php:107
+#: inc/widget/sidebar-footer-widgets/class-cream-magazine-post-widget.php:119
+msgid "Title"
+msgstr "Titre"
+
+#: inc/widget/sidebar-footer-widgets/class-cream-magazine-author-widget.php:11
+msgid "Displays Brief Author Description."
+msgstr "Affiche une brève description de l’auteur."
+
+#: inc/widget/sidebar-footer-widgets/class-cream-magazine-author-widget.php:9
+msgid "CM: Author Widget"
+msgstr "CM : Widget d’auteur"
+
+#: inc/helper-functions.php:66
+msgid "Breaking News"
+msgstr "Dernières nouvelles"
+
+#: inc/customizer/options/class-cream-magazine-color-options.php:111
+msgid "Primary Theme Color"
+msgstr "Couleur primaire du thème"
+
+#: inc/customizer/options/class-cream-magazine-site-image-options.php:63
+msgid "Enable Lazy Load"
+msgstr "Activer le chargement différé"
+
+#: inc/customizer/options/class-cream-magazine-site-sidebar-options.php:63
+msgid "Enable Sticky Sidebar"
+msgstr "Activer la colonne latérale collante"
+
+#: inc/customizer/options/class-cream-magazine-breadcrumb-options.php:64
+msgid "Enable Breadcrumb"
+msgstr "Activer le fil d’Ariane"
+
+#: inc/customizer/options/class-cream-magazine-social-links-options.php:183
+msgid "Vimeo Link"
+msgstr "Lien Vimeo"
+
+#: inc/customizer/options/class-cream-magazine-social-links-options.php:163
+msgid "Linkedin Link"
+msgstr "Lien Linkedin"
+
+#: inc/customizer/options/class-cream-magazine-social-links-options.php:143
+msgid "VK Link"
+msgstr "Lien VK"
+
+#: inc/customizer/options/class-cream-magazine-social-links-options.php:123
+msgid "Youtube Link"
+msgstr "Lien Youtube"
+
+#: inc/customizer/options/class-cream-magazine-social-links-options.php:103
+msgid "Instagram Link"
+msgstr "Lien Instagram"
+
+#: inc/customizer/options/class-cream-magazine-social-links-options.php:83
+msgid "Twitter Link"
+msgstr "Lien Twitter"
+
+#: inc/customizer/options/class-cream-magazine-social-links-options.php:63
+msgid "Facebook Link"
+msgstr "Lien Facebook"
+
+#: inc/customizer/options/class-cream-magazine-excerpt-options.php:63
+msgid "Excerpt Length"
+msgstr "Longueur de l’extrait"
+
+#: inc/customizer/options/class-cream-magazine-post-single-options.php:327
+msgid "Related Section Posts Number"
+msgstr "Nombre de publications similaires"
+
+#: inc/customizer/options/class-cream-magazine-post-single-options.php:306
+msgid "Related Posts Section Title"
+msgstr "Titre des publications similaires"
+
+#: inc/customizer/options/class-cream-magazine-post-single-options.php:285
+msgid "Enable Related Posts Section"
+msgstr "Activer les publications similaires"
+
+#: inc/customizer/options/class-cream-magazine-post-single-options.php:243
+msgid "Enable Author Section"
+msgstr "Activer la section d’auteur"
+
+#: inc/customizer/options/class-cream-magazine-page-single-options.php:63
+#: inc/customizer/options/class-cream-magazine-post-single-options.php:183
+msgid "Enable Featured Image"
+msgstr "Activer l’image mise en avant"
+
+#: inc/customizer/options/class-cream-magazine-post-meta-options.php:143
+#: inc/customizer/options/class-cream-magazine-post-single-options.php:142
+msgid "Enable Post Tags Meta"
+msgstr "Activer la méta des étiquettes"
+
+#: inc/customizer/options/class-cream-magazine-page-single-options.php:144
+#: inc/customizer/options/class-cream-magazine-archive-page-options.php:166
+#: inc/customizer/options/class-cream-magazine-blog-page-options.php:167
+#: inc/customizer/options/class-cream-magazine-post-single-options.php:477
+#: inc/customizer/options/class-cream-magazine-search-page-options.php:208
+msgid "Select Sidebar Position"
+msgstr "Sélectionner la position de la colonne latérale"
+
+#: inc/customizer/options/class-cream-magazine-footer-options.php:166
+msgid "Copyright Text"
+msgstr "Texte de copyright"
+
+#: inc/customizer/options/class-cream-magazine-footer-options.php:125
+msgid "Enable Scroll Top Button"
+msgstr "Activer le bouton de retour en haut"
+
+#: inc/customizer/options/class-cream-magazine-header-options.php:231
+msgid "Select Header Layout"
+msgstr "Sélection de mise en page d’en-tête"
+
+#: inc/customizer/options/class-cream-magazine-header-options.php:126
+msgid "Enable Search Button"
+msgstr "Activer le bouton de recherche"
+
+#: inc/customizer/options/class-cream-magazine-header-options.php:106
+msgid "Enable Home Button"
+msgstr "Activer le bouton d’accueil"
+
+#: inc/customizer/options/class-cream-magazine-header-options.php:63
+msgid "Enable Top Header"
+msgstr "Activer le haut d’en-tête"
+
+#: inc/customizer/options/class-cream-magazine-banner-options.php:107
+#: inc/customizer/options/class-cream-magazine-banner-options.php:120
+msgid "Banner/Slider Post Categories"
+msgstr "Catégories de publication de bannière/diaporama"
+
+#: inc/customizer/options/class-cream-magazine-post-meta-options.php:123
+#: inc/customizer/options/class-cream-magazine-banner-options.php:272
+#: inc/customizer/options/class-cream-magazine-archive-page-options.php:123
+#: inc/customizer/options/class-cream-magazine-blog-page-options.php:124
+#: inc/customizer/options/class-cream-magazine-post-single-options.php:122
+#: inc/customizer/options/class-cream-magazine-post-single-options.php:412
+#: inc/customizer/options/class-cream-magazine-search-page-options.php:123
+msgid "Enable Post Categories Meta"
+msgstr "Activer les catégories de publication"
+
+#: inc/customizer/options/class-cream-magazine-post-meta-options.php:103
+#: inc/customizer/options/class-cream-magazine-banner-options.php:251
+#: inc/customizer/options/class-cream-magazine-archive-page-options.php:103
+#: inc/customizer/options/class-cream-magazine-blog-page-options.php:104
+#: inc/customizer/options/class-cream-magazine-post-single-options.php:103
+#: inc/customizer/options/class-cream-magazine-post-single-options.php:391
+#: inc/customizer/options/class-cream-magazine-search-page-options.php:103
+msgid "Enable Post Comments Number Meta"
+msgstr "Activer le nombre de commentaires des publications"
+
+#: inc/customizer/options/class-cream-magazine-post-meta-options.php:83
+#: inc/customizer/options/class-cream-magazine-banner-options.php:230
+#: inc/customizer/options/class-cream-magazine-archive-page-options.php:83
+#: inc/customizer/options/class-cream-magazine-blog-page-options.php:84
+#: inc/customizer/options/class-cream-magazine-post-single-options.php:83
+#: inc/customizer/options/class-cream-magazine-post-single-options.php:370
+#: inc/customizer/options/class-cream-magazine-search-page-options.php:83
+msgid "Enable Posted Date Meta"
+msgstr "Activer la date de publication"
+
+#: inc/customizer/options/class-cream-magazine-post-meta-options.php:63
+#: inc/customizer/options/class-cream-magazine-banner-options.php:209
+#: inc/customizer/options/class-cream-magazine-archive-page-options.php:63
+#: inc/customizer/options/class-cream-magazine-blog-page-options.php:64
+#: inc/customizer/options/class-cream-magazine-post-single-options.php:63
+#: inc/customizer/options/class-cream-magazine-post-single-options.php:349
+#: inc/customizer/options/class-cream-magazine-search-page-options.php:63
+msgid "Enable Post Author Meta"
+msgstr "Activer l’auteur de la publication"
+
+#: inc/customizer/options/class-cream-magazine-banner-options.php:63
+msgid "Enable Banner/Slider"
+msgstr "Activer la bannière / diaporama"
+
+#: inc/customizer/options/class-cream-magazine-news-ticker-options.php:176
+#: inc/customizer/options/class-cream-magazine-news-ticker-options.php:189
+msgid "Ticker News Categories"
+msgstr "Catégories du bandeau de nouvelles"
+
+#: inc/customizer/options/class-cream-magazine-news-ticker-options.php:64
+msgid "This option will be effective only for the ticker news section that is displayed below the header section."
+msgstr "Cette option sera effective uniquement pour la section d’actualités du bandeau de nouvelles affichée sous la section d’en-tête."
+
+#: inc/customizer/options/class-cream-magazine-news-ticker-options.php:63
+msgid "Enable Ticker News"
+msgstr "Afficher le bandeau de nouvelles"
+
+#: inc/customizer/options/class-cream-magazine-site-layout-options.php:68
+msgid "Fullwidth Layout"
+msgstr "Mise en page en pleine largeur"
+
+#: inc/customizer/options/class-cream-magazine-site-layout-options.php:67
+msgid "Boxed Layout"
+msgstr "Mise en page encadrée"
+
+#: inc/customizer/options/class-cream-magazine-site-layout-options.php:63
+msgid "Select Site Layout"
+msgstr "Sélection de mise en page du site"
+
+#: inc/customizer/options/class-cream-magazine-woocommerce-options.php:40
+#: inc/customizer/options/class-cream-magazine-woocommerce-options.php:65
+msgid "Woocommerce Sidebar Position"
+msgstr "Position de la colonne latérale Woocommerce"
+
+#: inc/customizer/options/class-cream-magazine-color-options.php:42
+msgid "Theme Color"
+msgstr "Couleur du thème"
+
+#: inc/customizer/options/class-cream-magazine-site-image-options.php:40
+msgid "Site Image"
+msgstr "Image du site"
+
+#: inc/customizer/options/class-cream-magazine-site-sidebar-options.php:40
+#: inc/widget/class-cream-magazine-widget-init.php:49
+msgid "Sidebar"
+msgstr "Colonne latérale"
+
+#: inc/customizer/options/class-cream-magazine-breadcrumb-options.php:40
+msgid "Breadcrumb"
+msgstr "Fil d’Ariane"
+
+#: inc/customizer/options/class-cream-magazine-social-links-options.php:40
+msgid "Social Links"
+msgstr "Liens sociaux"
+
+#: inc/customizer/options/class-cream-magazine-excerpt-options.php:40
+msgid "Post Excerpt"
+msgstr "Extrait de publication"
+
+#: inc/customizer/options/class-cream-magazine-post-meta-options.php:40
+msgid "Global Post Meta"
+msgstr "Méta globale de publication"
+
+#: inc/customizer/options/class-cream-magazine-post-single-options.php:40
+msgid "Single Post"
+msgstr "Article individuel"
+
+#: inc/customizer/options/class-cream-magazine-search-page-options.php:40
+msgid "Search Page"
+msgstr "Page de recherche"
+
+#: inc/customizer/options/class-cream-magazine-archive-page-options.php:40
+msgid "Archive Page"
+msgstr "Page d’archives"
+
+#: inc/customizer/options/class-cream-magazine-blog-page-options.php:40
+msgid "Blog Page"
+msgstr "Page de blog"
+
+#: inc/customizer/options/class-cream-magazine-footer-options.php:40
+msgid "Footer"
+msgstr "Pied de page"
+
+#: inc/customizer/options/class-cream-magazine-header-options.php:40
+msgid "Header"
+msgstr "En-tête"
+
+#: inc/customizer/options/class-cream-magazine-banner-options.php:40
+msgid "Banner/Slider"
+msgstr "Bannière / diaporama"
+
+#: inc/customizer/options/class-cream-magazine-news-ticker-options.php:40
+msgid "Ticker News"
+msgstr "Bandeau de nouvelles"
+
+#: inc/customizer/options/class-cream-magazine-site-layout-options.php:40
+msgid "Site Layout"
+msgstr "Mise en page du site"
+
+#: inc/customizer/class-cream-magazine-customize.php:156
+msgid "Site Background"
+msgstr "Arrière-plan du site"
+
+#: inc/customizer/class-cream-magazine-customize.php:154
+msgid "Site Title Color"
+msgstr "Couleur de titre du site"
+
+#: inc/customizer/class-cream-magazine-customize.php:110
+msgid "Color Customization"
+msgstr "Personnalisation de couleur"
+
+#: inc/customizer/class-cream-magazine-customize.php:101
+msgid "Theme Customization"
+msgstr "Personnalisation du thème"
+
+#: inc/class-cream-magazine.php:74
+msgid "Bottom Footer Menu"
+msgstr "Menu du bas de pied de page"
+
+#: inc/class-cream-magazine.php:73
+msgid "Top Header Menu"
+msgstr "Menu du haut d’en-tête"
+
+#: inc/class-cream-magazine.php:72
+msgid "Primary Menu"
+msgstr "Menu primaire"
+
+#: inc/metabox/class-cream-magazine-post-meta.php:63
+msgid "None"
+msgstr "Aucun"
+
+#: inc/metabox/class-cream-magazine-post-meta.php:62
+msgid "Left"
+msgstr "Gauche"
+
+#: inc/metabox/class-cream-magazine-post-meta.php:61
+msgid "Right"
+msgstr "Droite"
+
+#: inc/customizer/options/class-cream-magazine-middle-news-area-options.php:108
+#: inc/metabox/class-cream-magazine-post-meta.php:40
+msgid "Sidebar Position"
+msgstr "Position de colonne latérale"
+
+#. translators: number of items in the mini cart.
+#: inc/woocommerce/woocommerce-template-functions.php:233
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] "%d élément"
+msgstr[1] "%d éléments"
+
+#: inc/woocommerce/woocommerce-template-functions.php:229
+msgid "View your shopping cart"
+msgstr "Voir votre panier d’achat"
+
+#: comments.php:67
+msgid "Comments are closed."
+msgstr "Les commentaires sont fermés."
+
+#. translators: 1: comment count number, 2: title.
+#: comments.php:41
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s commentaire sur &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s commentaires sur &ldquo;%2$s&rdquo;"
+
+#. translators: 1: title.
+#: comments.php:35
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr "Un commentaire sur &ldquo;%1$s&rdquo;"
+
+#: 404.php:35
+msgid "It looks like nothing was found at this location. Try searching below."
+msgstr "On dirait que rien n’a été trouvé à cet endroit. Essayez de chercher ci-dessous."
+
+#: 404.php:31
+msgid "Page Not Found !"
+msgstr "Page introuvable !"
+
+#: 404.php:30
+msgid "404"
+msgstr "404"
+
+#. translators: %s: search query.
+#: search.php:37
+msgid "Search Results for: %s"
+msgstr "Résultats de recherche pour : %s"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: third-party/class-tgm-plugin-activation.php:3636
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Installation de l’extension %1$s (%2$d/%3$d)"
+
+#: third-party/class-tgm-plugin-activation.php:3634
+msgid "All installations have been completed."
+msgstr "Toutes les installations ont été complétées."
+
+#. translators: 1: plugin name.
+#: third-party/class-tgm-plugin-activation.php:3633
+msgid "%1$s installed successfully."
+msgstr "%1$s à bien été installée."
+
+#: third-party/class-tgm-plugin-activation.php:3631
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Le processus d’installation est en cours. Ce processus peut prendre un certain temps pour certains hébergeurs, veuillez patienter."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: third-party/class-tgm-plugin-activation.php:3628
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Installation et activation de l’extension %1$s (%2$d/%3$d)"
+
+#: third-party/class-tgm-plugin-activation.php:3626
+msgid "All installations and activations have been completed."
+msgstr "Toutes les installations et activations ont été complétées."
+
+#. translators: 1: plugin name.
+#: third-party/class-tgm-plugin-activation.php:3625
+#: third-party/class-tgm-plugin-activation.php:3633
+msgid "Hide Details"
+msgstr "Masquer les détails"
+
+#. translators: 1: plugin name.
+#: third-party/class-tgm-plugin-activation.php:3625
+#: third-party/class-tgm-plugin-activation.php:3633
+msgid "Show Details"
+msgstr "Afficher les détails"
+
+#. translators: 1: plugin name.
+#: third-party/class-tgm-plugin-activation.php:3625
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s a bien été installée et activée."
+
+#: third-party/class-tgm-plugin-activation.php:3623
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Le processus d’installation et d’activation est en cours. Ce processus peut prendre un certain temps sur certains hébergeurs, veuillez patienter."
+
+#. translators: 1: plugin name.
+#: third-party/class-tgm-plugin-activation.php:3619
+msgid "The installation of %1$s failed."
+msgstr "L’installation de %1$s a échoué."
+
+#. translators: 1: plugin name, 2: error message.
+#: third-party/class-tgm-plugin-activation.php:3617
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Une erreur s’est produite lors de l’installation de %1$s : <strong>%2$s</strong>."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: third-party/class-tgm-plugin-activation.php:3614
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Mise à jour de l’extension %1$s (%2$d/%3$d)"
+
+#: third-party/class-tgm-plugin-activation.php:3274
+msgid "Plugin activation failed."
+msgstr "L’activation de l’extension a échoué."
+
+#: third-party/class-tgm-plugin-activation.php:3050
+msgid "No plugins are available to be activated at this time."
+msgstr "Aucune extension n’est disponible pour être activée actuellement."
+
+#: third-party/class-tgm-plugin-activation.php:3024
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "Aucune extension n’a été sélectionnée pour être activée. Aucune action prise en compte."
+
+#: third-party/class-tgm-plugin-activation.php:2918
+msgid "No plugins are available to be updated at this time."
+msgstr "Aucune extension n’est disponible pour être mise à actuellement."
+
+#: third-party/class-tgm-plugin-activation.php:2916
+msgid "No plugins are available to be installed at this time."
+msgstr "Aucune extension n’est disponible pour être installée actuellement."
+
+#: third-party/class-tgm-plugin-activation.php:2875
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "Aucune extension n’a été sélectionnée pour être mise à jour. Aucune action prise en compte."
+
+#: third-party/class-tgm-plugin-activation.php:2873
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "Aucune extension n’a été sélectionnée pour être installée. Aucune action prise en compte."
+
+#: third-party/class-tgm-plugin-activation.php:2842
+msgid "Activate"
+msgstr "Activer"
+
+#: third-party/class-tgm-plugin-activation.php:2839
+msgid "Update"
+msgstr "Mettre à jour"
+
+#: third-party/class-tgm-plugin-activation.php:2833
+msgid "Install"
+msgstr "Installer"
+
+#: third-party/class-tgm-plugin-activation.php:2800
+msgid "Upgrade message from the plugin author:"
+msgstr "Message de mise à jour de l’auteur de l’extension :"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: third-party/class-tgm-plugin-activation.php:2728
+msgid "Activate %2$s"
+msgstr "Activer %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: third-party/class-tgm-plugin-activation.php:2722
+msgid "Update %2$s"
+msgstr "Mettre à jour %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: third-party/class-tgm-plugin-activation.php:2717
+msgid "Install %2$s"
+msgstr "Installer %2$s"
+
+#: third-party/class-tgm-plugin-activation.php:2668
+msgid "Status"
+msgstr "État"
+
+#: third-party/class-tgm-plugin-activation.php:2667
+msgid "Version"
+msgstr "Version"
+
+#: third-party/class-tgm-plugin-activation.php:2663
+msgid "Type"
+msgstr "Type"
+
+#: third-party/class-tgm-plugin-activation.php:2662
+msgid "Source"
+msgstr "Source"
+
+#: third-party/class-tgm-plugin-activation.php:2661
+msgid "Plugin"
+msgstr "Extension"
+
+#: third-party/class-tgm-plugin-activation.php:2647
+msgid "No plugins to install, update or activate."
+msgstr "Aucune extension à installer, mettre à jour ou activer."
+
+#: third-party/class-tgm-plugin-activation.php:2624
+msgid "Available version:"
+msgstr "Version disponible :"
+
+#: third-party/class-tgm-plugin-activation.php:2612
+msgid "Minimum required version:"
+msgstr "Version minimum nécessaire :"
+
+#: third-party/class-tgm-plugin-activation.php:2604
+msgid "Installed version:"
+msgstr "Version installée :"
+
+#: third-party/class-tgm-plugin-activation.php:2596
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "inconnu"
+
+#. translators: 1: number of plugins.
+#: third-party/class-tgm-plugin-activation.php:2514
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "À activer <span class=\"count\">(%s)</span>"
+msgstr[1] "À activer <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: third-party/class-tgm-plugin-activation.php:2510
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "Mise à jour disponible <span class=\"count\">(%s)</span>"
+msgstr[1] "Mises à jour disponibles <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: third-party/class-tgm-plugin-activation.php:2506
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "À installer <span class=\"count\">(%s)</span>"
+msgstr[1] "À installer <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: third-party/class-tgm-plugin-activation.php:2502
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Toute <span class=\"count\">(%s)</span>"
+msgstr[1] "Toutes <span class=\"count\">(%s)</span>"
+
+#. translators: 1: install status, 2: update status
+#: third-party/class-tgm-plugin-activation.php:2456
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#: third-party/class-tgm-plugin-activation.php:2447
+msgid "Update recommended"
+msgstr "Mise à jour recommandée"
+
+#: third-party/class-tgm-plugin-activation.php:2444
+msgid "Requires Update"
+msgstr "Mise à jour nécessaire"
+
+#: third-party/class-tgm-plugin-activation.php:2441
+msgid "Required Update not Available"
+msgstr "Mise à jour nécessaire non disponible"
+
+#: third-party/class-tgm-plugin-activation.php:2435
+msgid "Active"
+msgstr "Active"
+
+#: third-party/class-tgm-plugin-activation.php:2433
+msgid "Installed But Not Activated"
+msgstr "Installée mais pas activée"
+
+#: third-party/class-tgm-plugin-activation.php:2429
+msgid "Not Installed"
+msgstr "Non installée"
+
+#: third-party/class-tgm-plugin-activation.php:2412
+msgid "Pre-Packaged"
+msgstr "Pré-packagée"
+
+#: third-party/class-tgm-plugin-activation.php:2409
+msgid "External Source"
+msgstr "Source externe"
+
+#: third-party/class-tgm-plugin-activation.php:2406
+msgid "WordPress Repository"
+msgstr "Dépôt WordPress"
+
+#: third-party/class-tgm-plugin-activation.php:2390
+msgid "Recommended"
+msgstr "Recommandée"
+
+#: third-party/class-tgm-plugin-activation.php:2387
+msgid "Required"
+msgstr "Nécessaire"
+
+#. translators: %s: version number
+#: third-party/class-tgm-plugin-activation.php:2078
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: third-party/class-tgm-plugin-activation.php:1217
+#: third-party/class-tgm-plugin-activation.php:3064
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "et"
+
+#: third-party/class-tgm-plugin-activation.php:1033
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr "Le paquet d’extensions distant comprend plus d’un fichier, mais les fichiers ne sont pas empaquetés dans un dossier."
+
+#: third-party/class-tgm-plugin-activation.php:1030
+#: third-party/class-tgm-plugin-activation.php:1033
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr "Veuillez contacter le fournisseur de l’extension et lui demander de le conditionner selon les directives de WordPress."
+
+#: third-party/class-tgm-plugin-activation.php:1030
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr "Le paquet d’extensions distant ne contient pas de dossier avez le slug souhaité et le renommage n’a pas fonctionné."
+
+#: third-party/class-tgm-plugin-activation.php:728
+msgid "Set the parent_slug config variable instead."
+msgstr "Utilisez plutôt la variable de configuration parent_slug."
+
+#: third-party/class-tgm-plugin-activation.php:611
+msgid "Update Required"
+msgstr "Mise à jour nécessaire"
+
+#: third-party/class-tgm-plugin-activation.php:610
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "Cette extension a besoin d’être mise à jour pour être compatible avec le thème."
+
+#: third-party/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr "Veuillez contacter l’administrateur de ce site pour obtenir de l’aide."
+
+#: third-party/class-tgm-plugin-activation.php:403
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr "Il y a une ou plusieurs extension(s) nécessaire(s) ou recommandée(s) à installer, mettre à jour ou activer."
+
+#: third-party/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr "Ignorer cette notification"
+
+#. translators: 1: dashboard link.
+#: third-party/class-tgm-plugin-activation.php:401
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Toutes les extensions ont bien été installées et activées. %1$s"
+
+#. translators: 1: plugin name.
+#: third-party/class-tgm-plugin-activation.php:399
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr "Extension non activée. Une version supérieure de %s est nécessaire pour ce thème. Veuillez mettre à jour l’extension."
+
+#. translators: 1: plugin name.
+#: third-party/class-tgm-plugin-activation.php:397
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "Aucune action prise en compte. L’extension %1$s était déjà active."
+
+#: third-party/class-tgm-plugin-activation.php:395
+#: third-party/class-tgm-plugin-activation.php:3068
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "L’extension suivante a bien été activée :"
+msgstr[1] "Les extensions suivantes ont bien été activées :"
+
+#: third-party/class-tgm-plugin-activation.php:394
+#: third-party/class-tgm-plugin-activation.php:3275
+msgid "Plugin activated successfully."
+msgstr "L’extension a bien été activée."
+
+#: third-party/class-tgm-plugin-activation.php:393
+#: third-party/class-tgm-plugin-activation.php:923
+#: third-party/class-tgm-plugin-activation.php:2647
+#: third-party/class-tgm-plugin-activation.php:3696
+msgid "Return to the Dashboard"
+msgstr "Retour au tableau de bord"
+
+#: third-party/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr "Retour à l’installation d’extensions nécessaires"
+
+#: third-party/class-tgm-plugin-activation.php:387
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Commencez à activer l’extension"
+msgstr[1] "Commencez à activer les extensions"
+
+#: third-party/class-tgm-plugin-activation.php:382
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Lancer la mise à jour de l’extension"
+msgstr[1] "Lancer la mise à jour des extensions"
+
+#: third-party/class-tgm-plugin-activation.php:377
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Lancer l’installation de l’extension"
+msgstr[1] "Lancer les installations des extensions"
+
+#. translators: 1: plugin name(s).
+#: third-party/class-tgm-plugin-activation.php:371
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "L’extension recommandée suivante est actuellement inactive : %1$s."
+msgstr[1] "Les extensions recommandées suivantes sont actuellement inactives: %1$s."
+
+#. translators: 1: plugin name(s).
+#: third-party/class-tgm-plugin-activation.php:365
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "L’extension nécessaire suivante est actuellement inactive : %1$s."
+msgstr[1] "Les extensions requises suivantes sont actuellement inactives: %1$s."
+
+#. translators: 1: plugin name(s).
+#: third-party/class-tgm-plugin-activation.php:359
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "Il y a une mise à jour disponible pour : %1$s."
+msgstr[1] "Il y a des mises à jour disponibles pour: %1$s."
+
+#. translators: 1: plugin name(s).
+#: third-party/class-tgm-plugin-activation.php:353
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] "L’extension suivante a besoin d’être mise à jour de ses dernières versions afin d’assurer un maximum de compatibilité avec ce thème : %1$s."
+msgstr[1] "Les extensions suivantes ont besoin d’être mises à jour de leurs dernières versions afin d’assurer un maximum de compatibilité avec ce thème: %1$s."
+
+#. translators: 1: plugin name(s).
+#: third-party/class-tgm-plugin-activation.php:347
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Ce thème recommande l’extension suivante : %1$s."
+msgstr[1] "Ce thème recommande les extensions suivantes: %1$s."
+
+#. translators: 1: plugin name(s).
+#: third-party/class-tgm-plugin-activation.php:341
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Ce thème nécessite l’extension suivante : %1$s."
+msgstr[1] "Ce thème nécessite les extensions suivantes: %1$s."
+
+#: third-party/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr "Quelque chose a mal tourné avec l’API de l’extension."
+
+#. translators: %s: plugin name.
+#: third-party/class-tgm-plugin-activation.php:339
+msgid "Updating Plugin: %s"
+msgstr "Mise à jour de l’extension : %s"
+
+#. translators: %s: plugin name.
+#: third-party/class-tgm-plugin-activation.php:337
+msgid "Installing Plugin: %s"
+msgstr "Installation de l’extension : %s"
+
+#: third-party/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr "Installer les extensions"
+
+#: third-party/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr "Installer les extensions nécessaires"
+
+#: third-party/breadcrumbs.php:822
+msgctxt "weekly archives date format"
+msgid "W"
+msgstr "W"
+
+#: third-party/breadcrumbs.php:794 third-party/breadcrumbs.php:1223
+msgctxt "daily archives date format"
+msgid "j"
+msgstr "j"
+
+#: third-party/breadcrumbs.php:793 third-party/breadcrumbs.php:849
+#: third-party/breadcrumbs.php:1219
+msgctxt "monthly archives date format"
+msgid "F"
+msgstr "F"
+
+#: third-party/breadcrumbs.php:792 third-party/breadcrumbs.php:821
+#: third-party/breadcrumbs.php:848 third-party/breadcrumbs.php:875
+#: third-party/breadcrumbs.php:1215
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: third-party/breadcrumbs.php:776
+msgctxt "hour archives time format"
+msgid "g a"
+msgstr "g a"
+
+#: third-party/breadcrumbs.php:759
+msgctxt "minute archives time format"
+msgid "i"
+msgstr "i"
+
+#: third-party/breadcrumbs.php:742
+msgctxt "minute and hour archives time format"
+msgid "g:i a"
+msgstr "g:i a"
+
+#. Translators: Weekly archive title. %s is the week date format.
+#: third-party/breadcrumbs.php:282
+msgid "Week %s"
+msgstr "Semaine %s"
+
+#. Translators: Minute archive title. %s is the minute time format.
+#: third-party/breadcrumbs.php:280
+msgid "Minute %s"
+msgstr "Minute %s"
+
+#. Translators: %s is the page number.
+#: third-party/breadcrumbs.php:278
+msgid "Comment Page %s"
+msgstr "Commenter la page %s"
+
+#. Translators: %s is the page number.
+#: third-party/breadcrumbs.php:276
+msgid "Page %s"
+msgstr "Page %s"
+
+#. Translators: %s is the search query.
+#: third-party/breadcrumbs.php:274
+msgid "Search results for: %s"
+msgstr "Résultats de recherche pour : %s"
+
+#: third-party/breadcrumbs.php:272
+msgid "Archives"
+msgstr "Archives"
+
+#: third-party/breadcrumbs.php:271
+msgid "404 Not Found"
+msgstr "404 non trouvé"
+
+#: third-party/breadcrumbs.php:269
+msgctxt "breadcrumbs aria label"
+msgid "Breadcrumbs"
+msgstr "Fils d’Ariane"
+
+#: third-party/breadcrumbs.php:268
+msgid "Browse:"
+msgstr "Vous parcourez :"
+
+#: single.php:39 inc/theme-hooks.php:381
+msgid "Next"
+msgstr "Suivant"
+
+#: single.php:38 inc/theme-hooks.php:380
+msgid "Prev"
+msgstr "Précédent"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/content-page.php:37
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "Modifier <span class=\"screen-reader-text\">%s</span>"
+
+#: template-parts/content-page.php:29 template-parts/content-single.php:33
+msgid "Pages:"
+msgstr "Pages :"
+
+#: template-parts/content-none.php:42
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Il semble que nous pouvons pas trouver ce que vous recherchez. Peut-être que la recherche peut aider."
+
+#: template-parts/content-none.php:35
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Désolé, mais rien ne correspond à vos termes de recherche. Veuillez réessayer avec des mots-clés différents."
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content-none.php:22
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Prêt à publier votre premier article ? <a href=\"%1$s\">Commencez ici</a>."
+
+#: template-parts/content-none.php:13
+msgid "Nothing Found"
+msgstr "Aucun résultat"
+
+#. Template Name of the theme
+#: third-party/breadcrumbs.php:270
+msgid "Home"
+msgstr "Accueil"
+
+#. Author URI of the theme
+msgid "https://themebeez.com/"
+msgstr "https://themebeez.com/"
+
+#. Author of the theme
+msgid "themebeez"
+msgstr "themebeez"
+
+#. Theme URI of the theme
+msgid "https://themebeez.com/themes/cream-magazine/"
+msgstr "https://themebeez.com/themes/cream-magazine/"
